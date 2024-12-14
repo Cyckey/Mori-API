@@ -1,25 +1,40 @@
-# amvstrm's API
+# **Mori**  
+### *amvstrm's API Fixed Fork*
 
-This is the bun version of amvstrm/API using Elysia.js. The app is still in development and is not ready for production use and Some have not been tested properly.
+This is **Mori**, a fixed fork of **amvstrm's API**, rewritten using **Elysia.js** and powered by **Bun**.  
+The application is still under development, not ready for production, and some features remain untested.
 
-## Installation
+---
 
-You need to have Bun installed on your computer. If you don't have it, install it from the website [Bun](https://bun.sh).
+## **Installation**  
 
-After that clone our API from the bun branch repository, install the dependencies, and run the app.
+To use this API, ensure **Bun** is installed on your system. If not, download it from the [official website](https://bun.sh).  
+
+### **Steps**:  
+1. Clone the repository from the `bun` branch.  
+2. Install dependencies.  
+3. Run the application using the following command:  
 
 ```bash
 bun run dev 
 ```
 
-## Docker
+---
 
-We need help for dockerfile configuration, so if you want to use this API in docker, you can help us creating dockerfile by creating a new pull request.
+## **Docker**  
 
-## Docs
+We currently need assistance with Dockerfile configuration.  
+If you'd like to help, please contribute by creating a pull request with your proposed Dockerfile configuration.  
 
-For documentation, you can go to the ``/swagger`` route.
+---
 
-## License
+## **Documentation**  
 
-This project is licensed under the GPL-3.0 license - see the [LICENSE](LICENSE) file for details.
+The API documentation is available at the `/swagger` route once the application is running.  
+
+---
+
+## **License**  
+
+This project is licensed under the **GPL-3.0** license.  
+See the [LICENSE](LICENSE) file for more details.
