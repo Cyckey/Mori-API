@@ -8,7 +8,7 @@ const envVariables = z.object({
   RATE_LIMIT: z.string().default("80"),
   RATE_LIMIT_DURATION: z.string().default("60000"),
   PROXY_URL: z.string().default(""),
-  GOGOANIME_PROXY: z.string().default("https://anitaku.pe"),
+  GOGOANIME_PROXY: z.string().default("https://anitaku.bz"),
   ANILIST_PROXY: z.string().default("https://graphql.anilist.co"),
   HASH_IP: z.preprocess(Boolean, z.boolean()).default(false),
 });
