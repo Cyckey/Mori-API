@@ -21,6 +21,21 @@ bun run dev
 
 ---
 
+## **Deploy on Vercel**  
+
+Click the button below to deploy this project to Vercel:
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Cyckey/Mori-API)
+
+---
+
+## **Docker**  
+
+We currently need assistance with Dockerfile configuration.  
+If you'd like to help, please contribute by creating a pull request with your proposed Dockerfile configuration.  
+
+---
+
 ## **Documentation**  
 
 The API documentation is available at the `/swagger` route once the application is running.  
@@ -31,3 +46,4 @@ The API documentation is available at the `/swagger` route once the application 
 
 This project is licensed under the **GPL-3.0** license.  
 See the [LICENSE](LICENSE) file for more details.
+````  
