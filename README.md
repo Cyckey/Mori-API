@@ -21,13 +21,6 @@ bun run dev
 
 ---
 
-## **Docker**  
-
-We currently need assistance with Dockerfile configuration.  
-If you'd like to help, please contribute by creating a pull request with your proposed Dockerfile configuration.  
-
----
-
 ## **Documentation**  
 
 The API documentation is available at the `/swagger` route once the application is running.  
