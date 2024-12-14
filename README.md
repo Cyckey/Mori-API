@@ -39,4 +39,3 @@ The API documentation is available at the `/swagger` route once the application 
 
 This project is licensed under the **GPL-3.0** license.  
 See the [LICENSE](LICENSE) file for more details.
-````  
